@@ -20,9 +20,10 @@ Mi nombre es __*Rafa*__ y estoy en la 301
 - Primero
 - Segundo
 
-```
+```html
 <html>
   <head>
   </head>
 </html>
 ```
+[Enlace a wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada "vas a la wiki")
