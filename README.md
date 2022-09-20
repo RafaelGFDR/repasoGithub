@@ -19,3 +19,10 @@ Mi nombre es __*Rafa*__ y estoy en la 301
 
 - Primero
 - Segundo
+
+```html
+<html>
+  <head>
+  </head>
+</html>
+```
