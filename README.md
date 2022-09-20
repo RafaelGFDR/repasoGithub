@@ -27,3 +27,5 @@ Mi nombre es __*Rafa*__ y estoy en la 301
 </html>
 ```
 [Enlace a wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada "vas a la wiki")
+
+![Peruano](https://profile-images.xing.com/images/60e9fa0cbc8fc8ddef940b3bb1c3594f-1/juan-vega.256x256.jpg)
