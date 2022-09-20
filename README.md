@@ -11,5 +11,11 @@ _este texto aparece en cursiva_
 __Este texto aparece en negrita__
 Mi nombre es __*Rafa*__ y estoy en la 301
 
-1. eeeeeee
-...1. eeeeee
+1. Primero
+2. Segundo
+
+* Primero
+* Segundo
+
+- Primero
+- Segundo
